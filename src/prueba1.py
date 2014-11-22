@@ -6,4 +6,4 @@ __author__="daniel"
 __date__ ="$22/11/2014 05:02:30 PM$"
 
 if __name__ == "__main__":
-    print "Hello World prueba"
+    print "Hello World prueba ull grupal"
